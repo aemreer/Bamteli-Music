@@ -11,5 +11,3 @@ About Us!
 ![3](https://user-images.githubusercontent.com/118760940/211034183-76b8e2af-cc11-4804-a8a7-5e333aa4b5d4.jpg)
 
 
-
- asd ![3](https://user-images.githubusercontent.com/118760940/211034272-c150f4ed-c6df-4f54-88db-e3b720a1ed1e.jpg)
