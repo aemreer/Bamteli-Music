@@ -1,0 +1,27 @@
+.jumbotron {
+padding: 25px;
+text-align: center;
+}
+.nav-link{
+    margin-left: 20px;
+}
+.list-group{
+    width: 250px;
+    height: 600px;
+}
+.list-group-item{
+    background-color: rgba(150, 105, 56, 0.651);
+}
+.baslik{
+    text-align: center;
+}
+div{
+    display:grid;
+}
+.pos{
+    position: relative;
+}
+
+body{
+    background-color: #6C757D;
+}
